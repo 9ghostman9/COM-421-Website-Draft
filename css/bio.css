@@ -1,0 +1,66 @@
+img {
+    margin: -669px 52px 10px 837px;
+}
+
+body{
+    background-color: bisque;
+    margin-left: 40px;
+}
+
+h1{
+    font-family: 'Trebuchet MS';
+    min-width:10px;
+}
+
+h2{
+    font-family: 'Trebuchet MS';
+    margin-left: 52px;
+    min-width:10px;
+}
+
+h3{
+    font-family: 'Trebuchet MS';
+    font-size: large;
+    min-width:10px;
+}
+
+p{
+    font-size: larger;
+    min-width:10px;
+}
+
+li{
+    font-size: larger;
+}
+
+section#hobbies{
+    margin-top: 100px;
+}
+
+section#disinterests{
+    margin-top: -150px;
+    margin-left: 540px;
+}
+
+section#good_food{
+    margin-top: 100px;
+}
+
+section#bad_food{
+    margin-top: -150px;
+    margin-left: 540px;
+}
+nav{
+    margin-top: -63px;
+    margin-left: 1328px;
+    font-size: xx-large;
+    float:right;
+}
+div#listoflists{
+    margin-top: -38px;
+    margin-left: 62px;
+}
+p#intro_paragraph{
+    margin-inline-end: 160px;
+    margin-left: 52px;
+}

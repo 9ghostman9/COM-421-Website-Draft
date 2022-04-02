@@ -1,0 +1,20 @@
+div#downloadbutton{
+    margin-left: 1470px;
+    margin-top: -75px;
+}
+h1{
+    font-family:'Trebuchet MS'
+}
+h2{
+    font-family: 'Trebuchet MS';
+    text-decoration:underline;
+}
+
+h3{
+    font-family: 'Trebuchet MS';
+    font-size: large;
+}
+
+nav{
+    font-family:'Trebuchet MS';
+}
